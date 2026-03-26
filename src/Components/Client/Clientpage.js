@@ -188,19 +188,19 @@ function Clientpage() {
       </div>
 
       <h1  data-aos="zoom-in" className='text-center text-3xl lg:text-4xl font-[poppins] font-semibold mt-10'>Our Clients</h1>
-      <div
-      data-aos="fade-down"
-      data-aos-easing="linear"
-      data-aos-duration="1500"
-      className="bg-[#E3F6F9] mt-10 ">
-        // <div className="flex flex-col justify-center items-center  lg:flex-row lg:justify-evenly">
-        //   <img className="w-[200px] h-[150px] object-contain rounded" src={img1}/>
-        //   <img className="w-[200px] h-[150px] object-contain" src={img2}/>
-        //   <img className="w-[200px] h-[150px] object-contain rounded" src={img3}/>
-        //   <img className="w-[200px] h-[150px] object-contain rounded" src={img4}/>
-        //   <img className="w-[200px] h-[150px] object-contain rounded" src={img5}/>
-        // </div>
-      </div>
+      // <div
+      // data-aos="fade-down"
+      // data-aos-easing="linear"
+      // data-aos-duration="1500"
+      // className="bg-[#E3F6F9] mt-10 ">
+      //   // <div className="flex flex-col justify-center items-center  lg:flex-row lg:justify-evenly">
+      //   //   <img className="w-[200px] h-[150px] object-contain rounded" src={img1}/>
+      //   //   <img className="w-[200px] h-[150px] object-contain" src={img2}/>
+      //   //   <img className="w-[200px] h-[150px] object-contain rounded" src={img3}/>
+      //   //   <img className="w-[200px] h-[150px] object-contain rounded" src={img4}/>
+      //   //   <img className="w-[200px] h-[150px] object-contain rounded" src={img5}/>
+      //   // </div>
+      // </div>
 <div className="flex flex-col lg:flex-row justify-evenly items-center mt-10 px-4">
 <div className="flex flex-col justify-center items-center gap-4">
   
