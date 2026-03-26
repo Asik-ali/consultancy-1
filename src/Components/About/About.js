@@ -66,17 +66,19 @@ function AboutContent() {
             </div>
           </div>
         </div>
+
+                  
         <div className="flex flex-col md:flex-row gap-2">
         <div className="flex flex-col gap-2">
   <div className="relative group">
-    <div className="w-[300px] h-[200px] relative">
-      // <img
-      // data-aos="flip-down"
-      // className="w-full h-full object-cover" src={img1} />
-      <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
-        <p className="text-white absolute bottom-4 right-0 text-xl font-[poppins]">From Idea to Implementation</p>
-      </div>
-    </div>
+    // <div className="w-[300px] h-[200px] relative">
+    //   // <img
+    //   // data-aos="flip-down"
+    //   // className="w-full h-full object-cover" src={img1} />
+    //   <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
+    //     <p className="text-white absolute bottom-4 right-0 text-xl font-[poppins]">From Idea to Implementation</p>
+    //   </div>
+    // </div>
   </div>
   <div className="relative group">
     <div className="w-[300px] h-[200px] relative">
