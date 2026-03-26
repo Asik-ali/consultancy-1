@@ -1,9 +1,6 @@
 import React, { useEffect } from "react";
 import hero from "../../Assest/a 2.jpg";
-import img1 from "../../Assest/1.png"
-import img2 from "../../Assest/2.jpg"
-import img3 from "../../Assest/3.jpg"
-import img4 from "../../Assest/4.jpg"
+
 import about from "../../Assest/aboutimg1.jpg"
 import responsibilities from "./Resposibiltesdata";
 import approachPoints from "./Apporachpoint";
@@ -73,9 +70,9 @@ function AboutContent() {
         <div className="flex flex-col gap-2">
   <div className="relative group">
     <div className="w-[300px] h-[200px] relative">
-      <img
-      data-aos="flip-down"
-      className="w-full h-full object-cover" src={img1} />
+      // <img
+      // data-aos="flip-down"
+      // className="w-full h-full object-cover" src={img1} />
       <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
         <p className="text-white absolute bottom-4 right-0 text-xl font-[poppins]">From Idea to Implementation</p>
       </div>
@@ -83,9 +80,9 @@ function AboutContent() {
   </div>
   <div className="relative group">
     <div className="w-[300px] h-[200px] relative">
-      <img 
-      data-aos="flip-up"
-      className="w-full h-full object-cover" src={img2} />
+      // <img 
+      // data-aos="flip-up"
+      // className="w-full h-full object-cover" src={img2} />
       <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
         <p className="text-white bottom-4 right-10 text-xl font-[poppins]  absolute">The Digital Statement</p>
       </div>
@@ -95,9 +92,9 @@ function AboutContent() {
           <div className="flex flex-col gap-2">
   <div className="relative group">
     <div className="w-[300px] h-[200px] relative">
-      <img
-      data-aos="flip-down"
-      className="w-full h-full object-cover" src={img3} />
+      // <img
+      // data-aos="flip-down"
+      // className="w-full h-full object-cover" src={img3} />
       <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
         <p className="text-white absolute bottom-4 right-0 text-xl font-[poppins] text-center">The Team that Delivers Results</p>
       </div>
@@ -105,9 +102,9 @@ function AboutContent() {
   </div>
   <div className="relative group">
     <div className="w-[300px] h-[200px] relative">
-      <img
-      data-aos="flip-up"
-      className="w-full h-full object-cover" src={img4} />
+      // <img
+      // data-aos="flip-up"
+      // className="w-full h-full object-cover" src={img4} />
       <div className="absolute inset-0 bg-black p-2 opacity-0 duration-500 transition-opacity  group-hover:opacity-[0.7]">
         <p className="text-white bottom-4 right-0 text-xl font-[poppins] text-center absolute">We touch your life in more ways!</p>
       </div>
@@ -142,9 +139,9 @@ function AboutContent() {
   className='text-center text-3xl lg:text-4xl font-[poppins] font-semibold'>About Us</h1>
   <div className='flex flex-col lg:flex-row lg:mx-4 container px-4 items-center justify-center gap-10 mt-5'>
     <div>
-      <img
-      data-aos="flip-left"
-      className='w-full  rounded' src={about} alt='About Us Image' />
+      // <img
+      // data-aos="flip-left"
+      // className='w-full  rounded' src={about} alt='About Us Image' />
     </div>
     <div
     data-aos="fade-up"
